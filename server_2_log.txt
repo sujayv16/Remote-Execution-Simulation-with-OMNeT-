@@ -1,0 +1,23 @@
+Server 2 initialized as Malicious.
+Server 2 (Malicious) computed result 11 for Subtask_0
+Server 2 sending Response for Subtask_0
+Server 2 (Malicious) computed result 8 for Subtask_2
+Server 2 sending Response for Subtask_2
+Server 2 (Malicious) computed result 14 for Subtask_3
+Server 2 sending Response for Subtask_3
+Server 2 (Malicious) computed result 10 for Subtask_4
+Server 2 sending Response for Subtask_4
+Server 2 (Malicious) computed result 11 for Subtask_0
+Server 2 sending Response for Subtask_0
+Server 2 (Malicious) computed result 19 for Subtask_1
+Server 2 sending Response for Subtask_1
+Server 2 (Malicious) computed result 8 for Subtask_2
+Server 2 sending Response for Subtask_2
+Server 2 (Malicious) computed result 10 for Subtask_4
+Server 2 sending Response for Subtask_4
+Server 2 (Malicious) computed result 11 for Subtask_0
+Server 2 sending Response for Subtask_0
+Server 2 (Malicious) computed result 8 for Subtask_2
+Server 2 sending Response for Subtask_2
+Server 2 (Malicious) computed result 10 for Subtask_4
+Server 2 sending Response for Subtask_4

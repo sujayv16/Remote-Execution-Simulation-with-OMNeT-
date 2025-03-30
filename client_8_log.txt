@@ -1,0 +1,115 @@
+Client 8 initialized with totalServers=5 and totalClients=3
+Sending Subtask_0 to Server with index 0 (module id 2)
+Sending Subtask_0 to Server with index 1 (module id 3)
+Sending Subtask_0 to Server with index 3 (module id 5)
+Sending Subtask_1 to Server with index 0 (module id 2)
+Sending Subtask_1 to Server with index 1 (module id 3)
+Sending Subtask_1 to Server with index 3 (module id 5)
+Sending Subtask_2 to Server with index 0 (module id 2)
+Sending Subtask_2 to Server with index 1 (module id 3)
+Sending Subtask_2 to Server with index 2 (module id 4)
+Sending Subtask_3 to Server with index 2 (module id 4)
+Sending Subtask_3 to Server with index 3 (module id 5)
+Sending Subtask_3 to Server with index 4 (module id 6)
+Sending Subtask_4 to Server with index 0 (module id 2)
+Sending Subtask_4 to Server with index 2 (module id 4)
+Sending Subtask_4 to Server with index 4 (module id 6)
+Received Response for Subtask_0 from Server index 0 (module id 2, Malicious) with result = 11
+Current scores (before processing subtask 0): Server0=0 Server1=0 Server2=0 Server3=0 Server4=0 
+Received Response for Subtask_0 from Server index 1 (module id 3, Honest) with result = 12
+Current scores (before processing subtask 0): Server0=0 Server1=0 Server2=0 Server3=0 Server4=0 
+Received Response for Subtask_0 from Server index 3 (module id 5, Honest) with result = 12
+Current scores (before processing subtask 0): Server0=0 Server1=0 Server2=0 Server3=0 Server4=0 
+Updated scores after processing Subtask_0: Server0=0 Server1=1 Server2=0 Server3=1 Server4=0 
+Subtask_0 majority result = 12
+Received Response for Subtask_1 from Server index 0 (module id 2, Malicious) with result = 19
+Current scores (before processing subtask 1): Server0=0 Server1=1 Server2=0 Server3=1 Server4=0 
+Received Response for Subtask_1 from Server index 1 (module id 3, Honest) with result = 20
+Current scores (before processing subtask 1): Server0=0 Server1=1 Server2=0 Server3=1 Server4=0 
+Received Response for Subtask_1 from Server index 3 (module id 5, Honest) with result = 20
+Current scores (before processing subtask 1): Server0=0 Server1=1 Server2=0 Server3=1 Server4=0 
+Updated scores after processing Subtask_1: Server0=0 Server1=2 Server2=0 Server3=2 Server4=0 
+Subtask_1 majority result = 20
+Received Response for Subtask_2 from Server index 0 (module id 2, Malicious) with result = 8
+Current scores (before processing subtask 2): Server0=0 Server1=2 Server2=0 Server3=2 Server4=0 
+Received Response for Subtask_2 from Server index 1 (module id 3, Honest) with result = 9
+Current scores (before processing subtask 2): Server0=0 Server1=2 Server2=0 Server3=2 Server4=0 
+Received Response for Subtask_2 from Server index 2 (module id 4, Honest) with result = 9
+Current scores (before processing subtask 2): Server0=0 Server1=2 Server2=0 Server3=2 Server4=0 
+Updated scores after processing Subtask_2: Server0=0 Server1=3 Server2=1 Server3=2 Server4=0 
+Subtask_2 majority result = 9
+Received Response for Subtask_3 from Server index 2 (module id 4, Honest) with result = 15
+Current scores (before processing subtask 3): Server0=0 Server1=3 Server2=1 Server3=2 Server4=0 
+Received Response for Subtask_3 from Server index 3 (module id 5, Honest) with result = 15
+Current scores (before processing subtask 3): Server0=0 Server1=3 Server2=1 Server3=2 Server4=0 
+Received Response for Subtask_3 from Server index 4 (module id 6, Honest) with result = 15
+Current scores (before processing subtask 3): Server0=0 Server1=3 Server2=1 Server3=2 Server4=0 
+Updated scores after processing Subtask_3: Server0=0 Server1=3 Server2=2 Server3=3 Server4=1 
+Subtask_3 majority result = 15
+Received Response for Subtask_4 from Server index 0 (module id 2, Malicious) with result = 10
+Current scores (before processing subtask 4): Server0=0 Server1=3 Server2=2 Server3=3 Server4=1 
+Received Response for Subtask_4 from Server index 2 (module id 4, Honest) with result = 11
+Current scores (before processing subtask 4): Server0=0 Server1=3 Server2=2 Server3=3 Server4=1 
+Received Response for Subtask_4 from Server index 4 (module id 6, Honest) with result = 11
+Current scores (before processing subtask 4): Server0=0 Server1=3 Server2=2 Server3=3 Server4=1 
+Updated scores after processing Subtask_4: Server0=0 Server1=3 Server2=3 Server3=3 Server4=2 
+Subtask_4 majority result = 11
+Final Result in Round 1 = 20
+Transitioning to Round 2. Selecting top servers based on current scores.
+Top servers selected for Round 2: Server3 Server2 Server1 
+Round 2: Sending Subtask_0 to Server 1
+Round 2: Sending Subtask_0 to Server 2
+Round 2: Sending Subtask_0 to Server 3
+Round 2: Sending Subtask_1 to Server 1
+Round 2: Sending Subtask_1 to Server 2
+Round 2: Sending Subtask_1 to Server 3
+Round 2: Sending Subtask_2 to Server 1
+Round 2: Sending Subtask_2 to Server 2
+Round 2: Sending Subtask_2 to Server 3
+Round 2: Sending Subtask_3 to Server 1
+Round 2: Sending Subtask_3 to Server 2
+Round 2: Sending Subtask_3 to Server 3
+Round 2: Sending Subtask_4 to Server 1
+Round 2: Sending Subtask_4 to Server 2
+Round 2: Sending Subtask_4 to Server 3
+Received Response for Subtask_0 from Server index 1 (module id 3, Honest) with result = 12
+Current scores (before processing subtask 0): Server0=0 Server1=3 Server2=3 Server3=3 Server4=2 
+Received Response for Subtask_0 from Server index 2 (module id 4, Honest) with result = 12
+Current scores (before processing subtask 0): Server0=0 Server1=3 Server2=3 Server3=3 Server4=2 
+Received Response for Subtask_0 from Server index 3 (module id 5, Honest) with result = 12
+Current scores (before processing subtask 0): Server0=0 Server1=3 Server2=3 Server3=3 Server4=2 
+Updated scores after processing Subtask_0: Server0=0 Server1=4 Server2=4 Server3=4 Server4=2 
+Subtask_0 majority result = 12
+Received Response for Subtask_1 from Server index 1 (module id 3, Honest) with result = 20
+Current scores (before processing subtask 1): Server0=0 Server1=4 Server2=4 Server3=4 Server4=2 
+Received Response for Subtask_1 from Server index 2 (module id 4, Honest) with result = 20
+Current scores (before processing subtask 1): Server0=0 Server1=4 Server2=4 Server3=4 Server4=2 
+Received Response for Subtask_1 from Server index 3 (module id 5, Honest) with result = 20
+Current scores (before processing subtask 1): Server0=0 Server1=4 Server2=4 Server3=4 Server4=2 
+Updated scores after processing Subtask_1: Server0=0 Server1=5 Server2=5 Server3=5 Server4=2 
+Subtask_1 majority result = 20
+Received Response for Subtask_2 from Server index 1 (module id 3, Honest) with result = 9
+Current scores (before processing subtask 2): Server0=0 Server1=5 Server2=5 Server3=5 Server4=2 
+Received Response for Subtask_2 from Server index 2 (module id 4, Honest) with result = 9
+Current scores (before processing subtask 2): Server0=0 Server1=5 Server2=5 Server3=5 Server4=2 
+Received Response for Subtask_2 from Server index 3 (module id 5, Honest) with result = 9
+Current scores (before processing subtask 2): Server0=0 Server1=5 Server2=5 Server3=5 Server4=2 
+Updated scores after processing Subtask_2: Server0=0 Server1=6 Server2=6 Server3=6 Server4=2 
+Subtask_2 majority result = 9
+Received Response for Subtask_3 from Server index 1 (module id 3, Honest) with result = 15
+Current scores (before processing subtask 3): Server0=0 Server1=6 Server2=6 Server3=6 Server4=2 
+Received Response for Subtask_3 from Server index 2 (module id 4, Honest) with result = 15
+Current scores (before processing subtask 3): Server0=0 Server1=6 Server2=6 Server3=6 Server4=2 
+Received Response for Subtask_3 from Server index 3 (module id 5, Honest) with result = 15
+Current scores (before processing subtask 3): Server0=0 Server1=6 Server2=6 Server3=6 Server4=2 
+Updated scores after processing Subtask_3: Server0=0 Server1=7 Server2=7 Server3=7 Server4=2 
+Subtask_3 majority result = 15
+Received Response for Subtask_4 from Server index 1 (module id 3, Honest) with result = 11
+Current scores (before processing subtask 4): Server0=0 Server1=7 Server2=7 Server3=7 Server4=2 
+Received Response for Subtask_4 from Server index 2 (module id 4, Honest) with result = 11
+Current scores (before processing subtask 4): Server0=0 Server1=7 Server2=7 Server3=7 Server4=2 
+Received Response for Subtask_4 from Server index 3 (module id 5, Honest) with result = 11
+Current scores (before processing subtask 4): Server0=0 Server1=7 Server2=7 Server3=7 Server4=2 
+Updated scores after processing Subtask_4: Server0=0 Server1=8 Server2=8 Server3=8 Server4=2 
+Subtask_4 majority result = 11
+Final Result in Round 2 = 20

@@ -1,0 +1,39 @@
+Server 3 initialized as Honest.
+Server 3 (Honest) computed result 20 for Subtask_1
+Server 3 sending Response for Subtask_1
+Server 3 (Honest) computed result 15 for Subtask_3
+Server 3 sending Response for Subtask_3
+Server 3 (Honest) computed result 12 for Subtask_0
+Server 3 sending Response for Subtask_0
+Server 3 (Honest) computed result 20 for Subtask_1
+Server 3 sending Response for Subtask_1
+Server 3 (Honest) computed result 9 for Subtask_2
+Server 3 sending Response for Subtask_2
+Server 3 (Honest) computed result 12 for Subtask_0
+Server 3 sending Response for Subtask_0
+Server 3 (Honest) computed result 20 for Subtask_1
+Server 3 sending Response for Subtask_1
+Server 3 (Honest) computed result 9 for Subtask_2
+Server 3 sending Response for Subtask_2
+Server 3 (Honest) computed result 15 for Subtask_3
+Server 3 sending Response for Subtask_3
+Server 3 (Honest) computed result 12 for Subtask_0
+Server 3 sending Response for Subtask_0
+Server 3 (Honest) computed result 20 for Subtask_1
+Server 3 sending Response for Subtask_1
+Server 3 (Honest) computed result 9 for Subtask_2
+Server 3 sending Response for Subtask_2
+Server 3 (Honest) computed result 15 for Subtask_3
+Server 3 sending Response for Subtask_3
+Server 3 (Honest) computed result 11 for Subtask_4
+Server 3 sending Response for Subtask_4
+Server 3 (Honest) computed result 12 for Subtask_0
+Server 3 sending Response for Subtask_0
+Server 3 (Honest) computed result 20 for Subtask_1
+Server 3 sending Response for Subtask_1
+Server 3 (Honest) computed result 9 for Subtask_2
+Server 3 sending Response for Subtask_2
+Server 3 (Honest) computed result 15 for Subtask_3
+Server 3 sending Response for Subtask_3
+Server 3 (Honest) computed result 11 for Subtask_4
+Server 3 sending Response for Subtask_4

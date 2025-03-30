@@ -1,0 +1,9 @@
+# Topology for Remote Execution Simulation
+# Format:
+#   Client <clientID>: <ServerID1>, <ServerID2>, ..., <ServerIDn>
+#
+# In this example, clients connect to all servers.
+
+Client 5: 2, 3, 4, 5, 6
+Client 6: 2, 3, 4, 5, 6
+Client 7: 2, 3, 4, 5, 6
